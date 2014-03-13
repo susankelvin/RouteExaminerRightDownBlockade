@@ -1,0 +1,4 @@
+RouteExaminerRightDownBlockade
+==============================
+
+Route counting algorithm
